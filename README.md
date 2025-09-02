@@ -59,7 +59,7 @@ The dataset is processed, analyzed, and visualized using **Python (Google Colab)
 
 ### 🔹 Country Map (1960–2024)
 
-![India Heatmap](https://github.com/AshwinSharma-git/Data-Visualisation-HeatMaps-/assets/)
+![India Heatmap](https://github.com/AshwinSharma-git/Data-Visualisation-HeatMaps-/blob/main/outputs/WhatsApp%20Image%202025-08-11%20at%2004.17.14_745c58fc.jpg)
 
 *(Replace with your generated image link)*
 
