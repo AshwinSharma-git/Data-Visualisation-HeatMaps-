@@ -60,6 +60,7 @@ The dataset is processed, analyzed, and visualized using **Python (Google Colab)
 ### 🔹 Country temperature Map (1960–2024)
 
 ![India Heatmap](https://github.com/AshwinSharma-git/Data-Visualisation-HeatMaps-/blob/main/outputs/WhatsApp%20Image%202025-08-11%20at%2004.17.14_745c58fc.jpg)
+
 ---
 
 ---
@@ -87,7 +88,8 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ## 📧 Contact
 
 👤 **Ashwin Sharma**
-🔗 [GitHub](https://github.com/AshwinSharma-git)
+🔗 [Linkedin](https://www.linkedin.com/in/ashwinsharma2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 ---
 
